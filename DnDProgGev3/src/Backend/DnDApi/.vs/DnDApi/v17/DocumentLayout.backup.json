@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gille\\Documents\\Hogent\\ProgramGevorderd3\\src\\Backend\\DnDApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B75A0346-0C27-98E4-0F98-244BF0AB93D8}|DnDApi.csproj|c:\\users\\gille\\documents\\hogent\\programgevorderd3\\src\\backend\\dndapi\\services\\spellsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B75A0346-0C27-98E4-0F98-244BF0AB93D8}|DnDApi.csproj|solutionrelative:services\\spellsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B75A0346-0C27-98E4-0F98-244BF0AB93D8}|DnDApi.csproj|c:\\users\\gille\\documents\\hogent\\programgevorderd3\\src\\backend\\dndapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B75A0346-0C27-98E4-0F98-244BF0AB93D8}|DnDApi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B75A0346-0C27-98E4-0F98-244BF0AB93D8}|DnDApi.csproj|c:\\users\\gille\\documents\\hogent\\programgevorderd3\\src\\backend\\dndapi\\controllers\\spellscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B75A0346-0C27-98E4-0F98-244BF0AB93D8}|DnDApi.csproj|solutionrelative:controllers\\spellscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B75A0346-0C27-98E4-0F98-244BF0AB93D8}|DnDApi.csproj|c:\\users\\gille\\documents\\hogent\\programgevorderd3\\src\\backend\\dndapi\\healthcheck\\urihealthcheck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B75A0346-0C27-98E4-0F98-244BF0AB93D8}|DnDApi.csproj|solutionrelative:healthcheck\\urihealthcheck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SpellsController.cs",
+              "DocumentMoniker": "C:\\Users\\gille\\Documents\\Hogent\\ProgramGevorderd3\\src\\Backend\\DnDApi\\Controllers\\SpellsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\SpellsController.cs",
+              "ToolTip": "C:\\Users\\gille\\Documents\\Hogent\\ProgramGevorderd3\\src\\Backend\\DnDApi\\Controllers\\SpellsController.cs",
+              "RelativeToolTip": "Controllers\\SpellsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T13:23:55.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SpellsService.cs",
+              "DocumentMoniker": "C:\\Users\\gille\\Documents\\Hogent\\ProgramGevorderd3\\src\\Backend\\DnDApi\\Services\\SpellsService.cs",
+              "RelativeDocumentMoniker": "Services\\SpellsService.cs",
+              "ToolTip": "C:\\Users\\gille\\Documents\\Hogent\\ProgramGevorderd3\\src\\Backend\\DnDApi\\Services\\SpellsService.cs",
+              "RelativeToolTip": "Services\\SpellsService.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAowA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T13:23:07.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gille\\Documents\\Hogent\\ProgramGevorderd3\\src\\Backend\\DnDApi\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\gille\\Documents\\Hogent\\ProgramGevorderd3\\src\\Backend\\DnDApi\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAYwCgAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T13:15:31.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UriHealthCheck.cs",
+              "DocumentMoniker": "C:\\Users\\gille\\Documents\\Hogent\\ProgramGevorderd3\\src\\Backend\\DnDApi\\HealthCheck\\UriHealthCheck.cs",
+              "RelativeDocumentMoniker": "HealthCheck\\UriHealthCheck.cs",
+              "ToolTip": "C:\\Users\\gille\\Documents\\Hogent\\ProgramGevorderd3\\src\\Backend\\DnDApi\\HealthCheck\\UriHealthCheck.cs",
+              "RelativeToolTip": "HealthCheck\\UriHealthCheck.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABQAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T13:14:57.635Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

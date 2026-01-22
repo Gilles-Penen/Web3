@@ -1,0 +1,394 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gille\\Documents\\Hogent\\ProgramGevorderd3\\src\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F6D6C43E-07E8-40AE-8B1B-62B32FC05B79}|DnDApi\\DnDApi.csproj|c:\\users\\gille\\documents\\hogent\\programgevorderd3\\src\\dndapi\\services\\ispellsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6D6C43E-07E8-40AE-8B1B-62B32FC05B79}|DnDApi\\DnDApi.csproj|solutionrelative:dndapi\\services\\ispellsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6D6C43E-07E8-40AE-8B1B-62B32FC05B79}|DnDApi\\DnDApi.csproj|c:\\users\\gille\\documents\\hogent\\programgevorderd3\\src\\dndapi\\services\\spellsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6D6C43E-07E8-40AE-8B1B-62B32FC05B79}|DnDApi\\DnDApi.csproj|solutionrelative:dndapi\\services\\spellsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6D6C43E-07E8-40AE-8B1B-62B32FC05B79}|DnDApi\\DnDApi.csproj|c:\\users\\gille\\documents\\hogent\\programgevorderd3\\src\\dndapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6D6C43E-07E8-40AE-8B1B-62B32FC05B79}|DnDApi\\DnDApi.csproj|solutionrelative:dndapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6D6C43E-07E8-40AE-8B1B-62B32FC05B79}|DnDApi\\DnDApi.csproj|c:\\users\\gille\\documents\\hogent\\programgevorderd3\\src\\dndapi\\controllers\\spellscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6D6C43E-07E8-40AE-8B1B-62B32FC05B79}|DnDApi\\DnDApi.csproj|solutionrelative:dndapi\\controllers\\spellscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6D6C43E-07E8-40AE-8B1B-62B32FC05B79}|DnDApi\\DnDApi.csproj|c:\\users\\gille\\documents\\hogent\\programgevorderd3\\src\\dndapi\\controllers\\errorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6D6C43E-07E8-40AE-8B1B-62B32FC05B79}|DnDApi\\DnDApi.csproj|solutionrelative:dndapi\\controllers\\errorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F856B28A-4BB7-4E8A-9F53-6A60BD705DD6}|DnD.Spells.Storage\\DnD.Spells.Storage.csproj|c:\\users\\gille\\documents\\hogent\\programgevorderd3\\src\\dnd.spells.storage\\spellrepositoryoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F856B28A-4BB7-4E8A-9F53-6A60BD705DD6}|DnD.Spells.Storage\\DnD.Spells.Storage.csproj|solutionrelative:dnd.spells.storage\\spellrepositoryoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F856B28A-4BB7-4E8A-9F53-6A60BD705DD6}|DnD.Spells.Storage\\DnD.Spells.Storage.csproj|c:\\users\\gille\\documents\\hogent\\programgevorderd3\\src\\dnd.spells.storage\\spellrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F856B28A-4BB7-4E8A-9F53-6A60BD705DD6}|DnD.Spells.Storage\\DnD.Spells.Storage.csproj|solutionrelative:dnd.spells.storage\\spellrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6D6C43E-07E8-40AE-8B1B-62B32FC05B79}|DnDApi\\DnDApi.csproj|c:\\users\\gille\\documents\\hogent\\programgevorderd3\\src\\dndapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F6D6C43E-07E8-40AE-8B1B-62B32FC05B79}|DnDApi\\DnDApi.csproj|solutionrelative:dndapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB7286CF-62DA-4883-B292-8AEC5EDDEEAC}|DnD.Spells.Storage.Contracts\\DnD.Spells.Storage.Contracts.csproj|c:\\users\\gille\\documents\\hogent\\programgevorderd3\\src\\dnd.spells.storage.contracts\\spellmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB7286CF-62DA-4883-B292-8AEC5EDDEEAC}|DnD.Spells.Storage.Contracts\\DnD.Spells.Storage.Contracts.csproj|solutionrelative:dnd.spells.storage.contracts\\spellmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F856B28A-4BB7-4E8A-9F53-6A60BD705DD6}|DnD.Spells.Storage\\DnD.Spells.Storage.csproj|c:\\users\\gille\\documents\\hogent\\programgevorderd3\\src\\dnd.spells.storage\\ispellrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F856B28A-4BB7-4E8A-9F53-6A60BD705DD6}|DnD.Spells.Storage\\DnD.Spells.Storage.csproj|solutionrelative:dnd.spells.storage\\ispellrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6D6C43E-07E8-40AE-8B1B-62B32FC05B79}|DnDApi\\DnDApi.csproj|c:\\users\\gille\\documents\\hogent\\programgevorderd3\\src\\dndapi\\extensions\\mappingextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6D6C43E-07E8-40AE-8B1B-62B32FC05B79}|DnDApi\\DnDApi.csproj|solutionrelative:dndapi\\extensions\\mappingextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{192410E7-43E6-4185-A2B5-08EC1C274D01}|DnD.Spells.Api.Contracts\\DnD.Spells.Api.Contracts.csproj|c:\\users\\gille\\documents\\hogent\\programgevorderd3\\src\\dnd.spells.api.contracts\\dto\\spellresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{192410E7-43E6-4185-A2B5-08EC1C274D01}|DnD.Spells.Api.Contracts\\DnD.Spells.Api.Contracts.csproj|solutionrelative:dnd.spells.api.contracts\\dto\\spellresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{192410E7-43E6-4185-A2B5-08EC1C274D01}|DnD.Spells.Api.Contracts\\DnD.Spells.Api.Contracts.csproj|c:\\users\\gille\\documents\\hogent\\programgevorderd3\\src\\dnd.spells.api.contracts\\dto\\subclassresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{192410E7-43E6-4185-A2B5-08EC1C274D01}|DnD.Spells.Api.Contracts\\DnD.Spells.Api.Contracts.csproj|solutionrelative:dnd.spells.api.contracts\\dto\\subclassresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{192410E7-43E6-4185-A2B5-08EC1C274D01}|DnD.Spells.Api.Contracts\\DnD.Spells.Api.Contracts.csproj|c:\\users\\gille\\documents\\hogent\\programgevorderd3\\src\\dnd.spells.api.contracts\\dto\\classresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{192410E7-43E6-4185-A2B5-08EC1C274D01}|DnD.Spells.Api.Contracts\\DnD.Spells.Api.Contracts.csproj|solutionrelative:dnd.spells.api.contracts\\dto\\classresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{192410E7-43E6-4185-A2B5-08EC1C274D01}|DnD.Spells.Api.Contracts\\DnD.Spells.Api.Contracts.csproj|c:\\users\\gille\\documents\\hogent\\programgevorderd3\\src\\dnd.spells.api.contracts\\dto\\magicschoolresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{192410E7-43E6-4185-A2B5-08EC1C274D01}|DnD.Spells.Api.Contracts\\DnD.Spells.Api.Contracts.csproj|solutionrelative:dnd.spells.api.contracts\\dto\\magicschoolresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{192410E7-43E6-4185-A2B5-08EC1C274D01}|DnD.Spells.Api.Contracts\\DnD.Spells.Api.Contracts.csproj|c:\\users\\gille\\documents\\hogent\\programgevorderd3\\src\\dnd.spells.api.contracts\\dto\\dctyperesponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{192410E7-43E6-4185-A2B5-08EC1C274D01}|DnD.Spells.Api.Contracts\\DnD.Spells.Api.Contracts.csproj|solutionrelative:dnd.spells.api.contracts\\dto\\dctyperesponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{192410E7-43E6-4185-A2B5-08EC1C274D01}|DnD.Spells.Api.Contracts\\DnD.Spells.Api.Contracts.csproj|c:\\users\\gille\\documents\\hogent\\programgevorderd3\\src\\dnd.spells.api.contracts\\dto\\difficultyclassresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{192410E7-43E6-4185-A2B5-08EC1C274D01}|DnD.Spells.Api.Contracts\\DnD.Spells.Api.Contracts.csproj|solutionrelative:dnd.spells.api.contracts\\dto\\difficultyclassresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{192410E7-43E6-4185-A2B5-08EC1C274D01}|DnD.Spells.Api.Contracts\\DnD.Spells.Api.Contracts.csproj|c:\\users\\gille\\documents\\hogent\\programgevorderd3\\src\\dnd.spells.api.contracts\\dto\\spellrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{192410E7-43E6-4185-A2B5-08EC1C274D01}|DnD.Spells.Api.Contracts\\DnD.Spells.Api.Contracts.csproj|solutionrelative:dnd.spells.api.contracts\\dto\\spellrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{192410E7-43E6-4185-A2B5-08EC1C274D01}|DnD.Spells.Api.Contracts\\DnD.Spells.Api.Contracts.csproj|c:\\users\\gille\\documents\\hogent\\programgevorderd3\\src\\dnd.spells.api.contracts\\dto\\dctyperequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{192410E7-43E6-4185-A2B5-08EC1C274D01}|DnD.Spells.Api.Contracts\\DnD.Spells.Api.Contracts.csproj|solutionrelative:dnd.spells.api.contracts\\dto\\dctyperequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB7286CF-62DA-4883-B292-8AEC5EDDEEAC}|DnD.Spells.Storage.Contracts\\DnD.Spells.Storage.Contracts.csproj|c:\\users\\gille\\documents\\hogent\\programgevorderd3\\src\\dnd.spells.storage.contracts\\difficultyclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB7286CF-62DA-4883-B292-8AEC5EDDEEAC}|DnD.Spells.Storage.Contracts\\DnD.Spells.Storage.Contracts.csproj|solutionrelative:dnd.spells.storage.contracts\\difficultyclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB7286CF-62DA-4883-B292-8AEC5EDDEEAC}|DnD.Spells.Storage.Contracts\\DnD.Spells.Storage.Contracts.csproj|c:\\users\\gille\\documents\\hogent\\programgevorderd3\\src\\dnd.spells.storage.contracts\\dctype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB7286CF-62DA-4883-B292-8AEC5EDDEEAC}|DnD.Spells.Storage.Contracts\\DnD.Spells.Storage.Contracts.csproj|solutionrelative:dnd.spells.storage.contracts\\dctype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB7286CF-62DA-4883-B292-8AEC5EDDEEAC}|DnD.Spells.Storage.Contracts\\DnD.Spells.Storage.Contracts.csproj|c:\\users\\gille\\documents\\hogent\\programgevorderd3\\src\\dnd.spells.storage.contracts\\subclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB7286CF-62DA-4883-B292-8AEC5EDDEEAC}|DnD.Spells.Storage.Contracts\\DnD.Spells.Storage.Contracts.csproj|solutionrelative:dnd.spells.storage.contracts\\subclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SpellsService.cs",
+              "DocumentMoniker": "C:\\Users\\gille\\Documents\\Hogent\\ProgramGevorderd3\\src\\DnDApi\\Services\\SpellsService.cs",
+              "RelativeDocumentMoniker": "DnDApi\\Services\\SpellsService.cs",
+              "ToolTip": "C:\\Users\\gille\\Documents\\Hogent\\ProgramGevorderd3\\src\\DnDApi\\Services\\SpellsService.cs*",
+              "RelativeToolTip": "DnDApi\\Services\\SpellsService.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T15:54:56.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SpellModel.cs",
+              "DocumentMoniker": "C:\\Users\\gille\\Documents\\Hogent\\ProgramGevorderd3\\src\\DnD.Spells.Storage.Contracts\\SpellModel.cs",
+              "RelativeDocumentMoniker": "DnD.Spells.Storage.Contracts\\SpellModel.cs",
+              "ToolTip": "C:\\Users\\gille\\Documents\\Hogent\\ProgramGevorderd3\\src\\DnD.Spells.Storage.Contracts\\SpellModel.cs",
+              "RelativeToolTip": "DnD.Spells.Storage.Contracts\\SpellModel.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T13:03:53.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gille\\Documents\\Hogent\\ProgramGevorderd3\\src\\DnDApi\\Program.cs",
+              "RelativeDocumentMoniker": "DnDApi\\Program.cs",
+              "ToolTip": "C:\\Users\\gille\\Documents\\Hogent\\ProgramGevorderd3\\src\\DnDApi\\Program.cs*",
+              "RelativeToolTip": "DnDApi\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T11:46:28.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SpellRepositoryOptions.cs",
+              "DocumentMoniker": "C:\\Users\\gille\\Documents\\Hogent\\ProgramGevorderd3\\src\\DnD.Spells.Storage\\SpellRepositoryOptions.cs",
+              "RelativeDocumentMoniker": "DnD.Spells.Storage\\SpellRepositoryOptions.cs",
+              "ToolTip": "C:\\Users\\gille\\Documents\\Hogent\\ProgramGevorderd3\\src\\DnD.Spells.Storage\\SpellRepositoryOptions.cs",
+              "RelativeToolTip": "DnD.Spells.Storage\\SpellRepositoryOptions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T14:13:11.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SpellsController.cs",
+              "DocumentMoniker": "C:\\Users\\gille\\Documents\\Hogent\\ProgramGevorderd3\\src\\DnDApi\\Controllers\\SpellsController.cs",
+              "RelativeDocumentMoniker": "DnDApi\\Controllers\\SpellsController.cs",
+              "ToolTip": "C:\\Users\\gille\\Documents\\Hogent\\ProgramGevorderd3\\src\\DnDApi\\Controllers\\SpellsController.cs",
+              "RelativeToolTip": "DnDApi\\Controllers\\SpellsController.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAADwvxwAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T11:46:20.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ISPellsService.cs",
+              "DocumentMoniker": "C:\\Users\\gille\\Documents\\Hogent\\ProgramGevorderd3\\src\\DnDApi\\Services\\ISPellsService.cs",
+              "RelativeDocumentMoniker": "DnDApi\\Services\\ISPellsService.cs",
+              "ToolTip": "C:\\Users\\gille\\Documents\\Hogent\\ProgramGevorderd3\\src\\DnDApi\\Services\\ISPellsService.cs",
+              "RelativeToolTip": "DnDApi\\Services\\ISPellsService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T12:30:31.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\gille\\Documents\\Hogent\\ProgramGevorderd3\\src\\DnDApi\\appsettings.json",
+              "RelativeDocumentMoniker": "DnDApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\gille\\Documents\\Hogent\\ProgramGevorderd3\\src\\DnDApi\\appsettings.json",
+              "RelativeToolTip": "DnDApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-23T12:29:33.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ErrorController.cs",
+              "DocumentMoniker": "C:\\Users\\gille\\Documents\\Hogent\\ProgramGevorderd3\\src\\DnDApi\\Controllers\\ErrorController.cs",
+              "RelativeDocumentMoniker": "DnDApi\\Controllers\\ErrorController.cs",
+              "ToolTip": "C:\\Users\\gille\\Documents\\Hogent\\ProgramGevorderd3\\src\\DnDApi\\Controllers\\ErrorController.cs",
+              "RelativeToolTip": "DnDApi\\Controllers\\ErrorController.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAqwCAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T12:32:27.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ISpellRepository.cs",
+              "DocumentMoniker": "C:\\Users\\gille\\Documents\\Hogent\\ProgramGevorderd3\\src\\DnD.Spells.Storage\\ISpellRepository.cs",
+              "RelativeDocumentMoniker": "DnD.Spells.Storage\\ISpellRepository.cs",
+              "ToolTip": "C:\\Users\\gille\\Documents\\Hogent\\ProgramGevorderd3\\src\\DnD.Spells.Storage\\ISpellRepository.cs",
+              "RelativeToolTip": "DnD.Spells.Storage\\ISpellRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T14:07:37.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SpellRepository.cs",
+              "DocumentMoniker": "C:\\Users\\gille\\Documents\\Hogent\\ProgramGevorderd3\\src\\DnD.Spells.Storage\\SpellRepository.cs",
+              "RelativeDocumentMoniker": "DnD.Spells.Storage\\SpellRepository.cs",
+              "ToolTip": "C:\\Users\\gille\\Documents\\Hogent\\ProgramGevorderd3\\src\\DnD.Spells.Storage\\SpellRepository.cs",
+              "RelativeToolTip": "DnD.Spells.Storage\\SpellRepository.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAqwCsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T14:07:50.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MappingExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\gille\\Documents\\Hogent\\ProgramGevorderd3\\src\\DnDApi\\Extensions\\MappingExtensions.cs",
+              "RelativeDocumentMoniker": "DnDApi\\Extensions\\MappingExtensions.cs",
+              "ToolTip": "C:\\Users\\gille\\Documents\\Hogent\\ProgramGevorderd3\\src\\DnDApi\\Extensions\\MappingExtensions.cs",
+              "RelativeToolTip": "DnDApi\\Extensions\\MappingExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T12:40:36.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SubclassResponseDTO.cs",
+              "DocumentMoniker": "C:\\Users\\gille\\Documents\\Hogent\\ProgramGevorderd3\\src\\DnD.Spells.Api.Contracts\\DTO\\SubclassResponseDTO.cs",
+              "RelativeDocumentMoniker": "DnD.Spells.Api.Contracts\\DTO\\SubclassResponseDTO.cs",
+              "ToolTip": "C:\\Users\\gille\\Documents\\Hogent\\ProgramGevorderd3\\src\\DnD.Spells.Api.Contracts\\DTO\\SubclassResponseDTO.cs",
+              "RelativeToolTip": "DnD.Spells.Api.Contracts\\DTO\\SubclassResponseDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T13:43:12.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ClassResponseDTO.cs",
+              "DocumentMoniker": "C:\\Users\\gille\\Documents\\Hogent\\ProgramGevorderd3\\src\\DnD.Spells.Api.Contracts\\DTO\\ClassResponseDTO.cs",
+              "RelativeDocumentMoniker": "DnD.Spells.Api.Contracts\\DTO\\ClassResponseDTO.cs",
+              "ToolTip": "C:\\Users\\gille\\Documents\\Hogent\\ProgramGevorderd3\\src\\DnD.Spells.Api.Contracts\\DTO\\ClassResponseDTO.cs",
+              "RelativeToolTip": "DnD.Spells.Api.Contracts\\DTO\\ClassResponseDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T13:42:54.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SpellResponseDTO.cs",
+              "DocumentMoniker": "C:\\Users\\gille\\Documents\\Hogent\\ProgramGevorderd3\\src\\DnD.Spells.Api.Contracts\\DTO\\SpellResponseDTO.cs",
+              "RelativeDocumentMoniker": "DnD.Spells.Api.Contracts\\DTO\\SpellResponseDTO.cs",
+              "ToolTip": "C:\\Users\\gille\\Documents\\Hogent\\ProgramGevorderd3\\src\\DnD.Spells.Api.Contracts\\DTO\\SpellResponseDTO.cs",
+              "RelativeToolTip": "DnD.Spells.Api.Contracts\\DTO\\SpellResponseDTO.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAABBwA8AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T13:38:21.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MagicSchoolResponseDTO.cs",
+              "DocumentMoniker": "C:\\Users\\gille\\Documents\\Hogent\\ProgramGevorderd3\\src\\DnD.Spells.Api.Contracts\\DTO\\MagicSchoolResponseDTO.cs",
+              "RelativeDocumentMoniker": "DnD.Spells.Api.Contracts\\DTO\\MagicSchoolResponseDTO.cs",
+              "ToolTip": "C:\\Users\\gille\\Documents\\Hogent\\ProgramGevorderd3\\src\\DnD.Spells.Api.Contracts\\DTO\\MagicSchoolResponseDTO.cs",
+              "RelativeToolTip": "DnD.Spells.Api.Contracts\\DTO\\MagicSchoolResponseDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T13:42:41.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DcTypeResponseDTO.cs",
+              "DocumentMoniker": "C:\\Users\\gille\\Documents\\Hogent\\ProgramGevorderd3\\src\\DnD.Spells.Api.Contracts\\DTO\\DcTypeResponseDTO.cs",
+              "RelativeDocumentMoniker": "DnD.Spells.Api.Contracts\\DTO\\DcTypeResponseDTO.cs",
+              "ToolTip": "C:\\Users\\gille\\Documents\\Hogent\\ProgramGevorderd3\\src\\DnD.Spells.Api.Contracts\\DTO\\DcTypeResponseDTO.cs",
+              "RelativeToolTip": "DnD.Spells.Api.Contracts\\DTO\\DcTypeResponseDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T13:42:25.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DifficultyClassResponseDTO.cs",
+              "DocumentMoniker": "C:\\Users\\gille\\Documents\\Hogent\\ProgramGevorderd3\\src\\DnD.Spells.Api.Contracts\\DTO\\DifficultyClassResponseDTO.cs",
+              "RelativeDocumentMoniker": "DnD.Spells.Api.Contracts\\DTO\\DifficultyClassResponseDTO.cs",
+              "ToolTip": "C:\\Users\\gille\\Documents\\Hogent\\ProgramGevorderd3\\src\\DnD.Spells.Api.Contracts\\DTO\\DifficultyClassResponseDTO.cs",
+              "RelativeToolTip": "DnD.Spells.Api.Contracts\\DTO\\DifficultyClassResponseDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T13:42:10.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "SpellRequestDTO.cs",
+              "DocumentMoniker": "C:\\Users\\gille\\Documents\\Hogent\\ProgramGevorderd3\\src\\DnD.Spells.Api.Contracts\\DTO\\SpellRequestDTO.cs",
+              "RelativeDocumentMoniker": "DnD.Spells.Api.Contracts\\DTO\\SpellRequestDTO.cs",
+              "ToolTip": "C:\\Users\\gille\\Documents\\Hogent\\ProgramGevorderd3\\src\\DnD.Spells.Api.Contracts\\DTO\\SpellRequestDTO.cs",
+              "RelativeToolTip": "DnD.Spells.Api.Contracts\\DTO\\SpellRequestDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T13:30:57.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "DcTypeRequestDTO.cs",
+              "DocumentMoniker": "C:\\Users\\gille\\Documents\\Hogent\\ProgramGevorderd3\\src\\DnD.Spells.Api.Contracts\\DTO\\DcTypeRequestDTO.cs",
+              "RelativeDocumentMoniker": "DnD.Spells.Api.Contracts\\DTO\\DcTypeRequestDTO.cs",
+              "ToolTip": "C:\\Users\\gille\\Documents\\Hogent\\ProgramGevorderd3\\src\\DnD.Spells.Api.Contracts\\DTO\\DcTypeRequestDTO.cs",
+              "RelativeToolTip": "DnD.Spells.Api.Contracts\\DTO\\DcTypeRequestDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T13:30:50.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "DifficultyClass.cs",
+              "DocumentMoniker": "C:\\Users\\gille\\Documents\\Hogent\\ProgramGevorderd3\\src\\DnD.Spells.Storage.Contracts\\DifficultyClass.cs",
+              "RelativeDocumentMoniker": "DnD.Spells.Storage.Contracts\\DifficultyClass.cs",
+              "ToolTip": "C:\\Users\\gille\\Documents\\Hogent\\ProgramGevorderd3\\src\\DnD.Spells.Storage.Contracts\\DifficultyClass.cs",
+              "RelativeToolTip": "DnD.Spells.Storage.Contracts\\DifficultyClass.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T12:58:35.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "DcType.cs",
+              "DocumentMoniker": "C:\\Users\\gille\\Documents\\Hogent\\ProgramGevorderd3\\src\\DnD.Spells.Storage.Contracts\\DcType.cs",
+              "RelativeDocumentMoniker": "DnD.Spells.Storage.Contracts\\DcType.cs",
+              "ToolTip": "C:\\Users\\gille\\Documents\\Hogent\\ProgramGevorderd3\\src\\DnD.Spells.Storage.Contracts\\DcType.cs",
+              "RelativeToolTip": "DnD.Spells.Storage.Contracts\\DcType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T12:58:46.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Subclass.cs",
+              "DocumentMoniker": "C:\\Users\\gille\\Documents\\Hogent\\ProgramGevorderd3\\src\\DnD.Spells.Storage.Contracts\\Subclass.cs",
+              "RelativeDocumentMoniker": "DnD.Spells.Storage.Contracts\\Subclass.cs",
+              "ToolTip": "C:\\Users\\gille\\Documents\\Hogent\\ProgramGevorderd3\\src\\DnD.Spells.Storage.Contracts\\Subclass.cs",
+              "RelativeToolTip": "DnD.Spells.Storage.Contracts\\Subclass.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T12:59:21.368Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

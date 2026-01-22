@@ -1,0 +1,19 @@
+2025-01-28 05:02:37.248 +01:00 [INF] [ThreadId:1] NBomber 5.8.2 started a new session: 2025-01-28_04.02.18_session_74b283a0
+2025-01-28 05:02:37.296 +01:00 [INF] [ThreadId:1] NBomber started as single node
+2025-01-28 05:02:37.299 +01:00 [INF] [ThreadId:1] License validation....
+2025-01-28 05:02:37.300 +01:00 [WRN] [ThreadId:1] THIS VERSION IS FREE ONLY FOR PERSONAL USE. You can't use it for an organization.
+2025-01-28 05:02:37.325 +01:00 [INF] [ThreadId:1] Reports folder: C:\Users\gille\Documents\Hogent\ProgramGevorderd3\src\Backend\NBomberApp\bin\Debug\net9.0\reports\2025-01-28_04.02.18_session_74b283a0
+2025-01-28 05:02:37.326 +01:00 [INF] [ThreadId:1] Plugin loaded: Ping Plugin
+2025-01-28 05:02:37.326 +01:00 [INF] [ThreadId:1] Plugin loaded: HttpMetricsPlugin
+2025-01-28 05:02:37.327 +01:00 [INF] [ThreadId:1] Reporting sinks: no reporting sinks were loaded
+2025-01-28 05:02:37.327 +01:00 [INF] [ThreadId:1] Starting init...
+2025-01-28 05:02:37.330 +01:00 [INF] [ThreadId:1] Start init plugin: Ping Plugin
+2025-01-28 05:02:37.454 +01:00 [INF] [ThreadId:1] Start init plugin: HttpMetricsPlugin
+2025-01-28 05:02:37.461 +01:00 [INF] [ThreadId:1] Target scenarios: http_scenario
+2025-01-28 05:02:37.464 +01:00 [INF] [ThreadId:1] Init finished
+2025-01-28 05:02:37.479 +01:00 [INF] [ThreadId:1] Starting bombing...
+2025-01-28 05:02:40.821 +01:00 [INF] [ThreadId:5] Waiting on scenarios completion...
+2025-01-28 05:02:41.841 +01:00 [WRN] [ThreadId:5] Stopping test early: stop command activated by CLI
+2025-01-28 05:02:44.825 +01:00 [INF] [ThreadId:8] Calculating final statistics...
+2025-01-28 05:02:45.082 +01:00 [INF] [ThreadId:8] Reports saved in folder: C:\Users\gille\Documents\Hogent\ProgramGevorderd3\src\Backend\NBomberApp\reports\2025-01-28_04.02.18_session_74b283a0
+2025-01-28 05:02:45.083 +01:00 [WRN] [ThreadId:8] THIS VERSION IS FREE ONLY FOR PERSONAL USE. You can't use it for an organization.
